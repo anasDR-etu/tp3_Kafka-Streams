@@ -164,18 +164,18 @@ Décomposition du traitement en plusieurs étapes :
 Cette approche a facilité la validation progressive des résultats.
 
 # Exercice 3 — omptage de clics avec Kafka Streams et Spring Boot
-<img src="exrcice3/img/img1.png">
-<img src="exrcice3/img/img2.png">
-<img src="exrcice3/img/img3.png">
-<img src="exrcice3/img/img4.png">
-<img src="exrcice3/img/img5.png">
-<img src="exrcice3/img/img6.png">
-<img src="exrcice3/img/img7.png">
-<img src="exrcice3/img/img8.png">
-<img src="exrcice3/img/img9.png">
-<img src="exrcice3/img/img10.png">
-<img src="exrcice3/img/img11.png">
-<img src="exrcice3/img/img12.png">
+<img src="exercice3/img/img1.png">
+<img src="exercice3/img/img2.png">
+<img src="exercice3/img/img3.png">
+<img src="exercice3/img/img4.png">
+<img src="exercice3/img/img5.png">
+<img src="exercice3/img/img6.png">
+<img src="exercice3/img/img7.png">
+<img src="exercice3/img/img8.png">
+<img src="exercice3/img/img9.png">
+<img src="exercice3/img/img10.png">
+<img src="exercice3/img/img11.png">
+<img src="exercice3/img/img12.png">
 # Exercice 3 — Comptage de clics avec Kafka Streams
 
 ## Description du projet
